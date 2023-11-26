@@ -1,6 +1,6 @@
-this is a DIY clock with a built-in alarm.
+this is a humidity and temperature detector.
 
-The system is composed of an Arduino Uno, a DS3232 timer, a 16x2 LCD screen, a buzzer, an RV amplifier 10k Ohm potentiometer, 2 10K Ohm resistors, and 4 push buttons to control the time and the alarm.
+The system is composed of an Arduino Uno, a DHT11 Temperature and Humidity Sensor, a 16x2 LCD screen, an RV amplifier 10k Ohm potentiometer, and 5K Ohm resistors.
 
 The following is the hardware design
 
